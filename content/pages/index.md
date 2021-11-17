@@ -24,6 +24,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
+        image: /images/logo_白.jpg
       - title: Blog
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
