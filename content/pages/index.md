@@ -5,9 +5,8 @@ sections:
     type: section_hero
     title: Where Kids Love Learning
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Outschool is a marketplace of live online classes for kids (ages 3-18)
     actions:
       - label: Get Started
         url: /docs
