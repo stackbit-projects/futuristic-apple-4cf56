@@ -2,7 +2,6 @@
 title: >-
   Allschool Holiday Gift Guide: Give a Little Togetherness – Even if You’re
   Apart
-subtitle: lorem-ipsum
 date: '2021-11-17'
 thumb_image_alt: lorem-ipsum
 excerpt: lorem-ipsum
