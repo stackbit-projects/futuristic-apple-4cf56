@@ -5,7 +5,8 @@ sections:
     type: section_hero
     title: Where Kids Love Learning
     image: images/5.jpg
-    content: An optional subtitle
+    content: |
+      Allschool is a marketplace of live online classes for kids (ages 3-18)
   - section_id: docs-overview
     type: section_docs
     col_number: three
